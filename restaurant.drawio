@@ -673,15 +673,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pwZaw2-eATyTsdpzNZrV" name="Page-2">
-    <mxGraphModel dx="2947" dy="5051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6360" dy="4633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-5e967960-7fff-6daa-227f-e8a2e34b4071&quot;&gt;&lt;span style=&quot;font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:2048px;height:1579px;&quot;&gt;&lt;img src=&quot;https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkCf7k0Vxx5MbxyL30S4_zUElF2O3LD0LKCCHlxjquRmqNiuRqLDygqW13fbbqe5vMxavXvTXnK15STkuR15fKvDpKQwnb74zUqV0lT2ibg5w_nbPHyeieXp-14HawnIraFNJydEVOOMlmjyo1y_QqzEHh?key=tqcEyIgQzsYEGGpQ3tKR2Q&quot; width=&quot;2048&quot; height=&quot;1579&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" link="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-5e967960-7fff-6daa-227f-e8a2e34b4071&quot;&gt;&lt;span style=&quot;font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:2048px;height:1579px;&quot;&gt;&lt;img src=&quot;https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkCf7k0Vxx5MbxyL30S4_zUElF2O3LD0LKCCHlxjquRmqNiuRqLDygqW13fbbqe5vMxavXvTXnK15STkuR15fKvDpKQwnb74zUqV0lT2ibg5w_nbPHyeieXp-14HawnIraFNJydEVOOMlmjyo1y_QqzEHh?key=tqcEyIgQzsYEGGpQ3tKR2Q&quot; width=&quot;2048&quot; height=&quot;1579&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" id="YB3sWDrpPlLuCXkOJm8f-1">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="-360" y="-3430" width="2070" height="1620" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
